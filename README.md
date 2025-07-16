@@ -42,13 +42,12 @@ A landing page contém:
 
 ## 📂 Estrutura do Projeto
 ```
+
+├── app/        # Páginas e rotas Next.js
+├── components/ # Componentes reutilizáveis 
 ├── public/
 │   ├── img/        # Imagens fictícias para ilustração
 │   └── placeholder # Placeholders
-├── src/
-│   ├── components/ # Componentes reutilizáveis
-│   ├── app/        # Páginas e rotas Next.js
-│   └── styles/     # Estilos globais
 ├── package.json
 └── README.md
 ```
@@ -83,10 +82,6 @@ yarn dev
 
 Abra no navegador: **http://localhost:3000**
 
----
-
-## 📌 Deploy
-Este projeto pode ser facilmente hospedado no [Vercel](https://vercel.com/) ou qualquer serviço compatível com **Next.js**.
 
 ---
 
