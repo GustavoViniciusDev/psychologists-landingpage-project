@@ -204,8 +204,8 @@ export default function PsychologyLanding() {
                     ))}
                   </div>
                   <p className="text-slate-600 mb-4 italic">
-                    "A Dra. Mariana me ajudou muito a lidar com minha ansiedade. Seu atendimento é muito acolhedor e
-                    profissional."
+                    &quot;A Dra. Mariana me ajudou muito a lidar com minha ansiedade. Seu atendimento é muito acolhedor e
+                    profissional.&quot;
                   </p>
                   <div className="flex items-center">
                     <Image
@@ -231,7 +231,7 @@ export default function PsychologyLanding() {
                     ))}
                   </div>
                   <p className="text-slate-600 mb-4 italic">
-                    "Excelente profissional! Me sinto muito mais confiante e equilibrado após iniciar o tratamento."
+                    &quot;Excelente profissional! Me sinto muito mais confiante e equilibrado após iniciar o tratamento.&quot;
                   </p>
                   <div className="flex items-center">
                     <Image
@@ -257,7 +257,7 @@ export default function PsychologyLanding() {
                     ))}
                   </div>
                   <p className="text-slate-600 mb-4 italic">
-                    "A terapia online foi perfeita para minha rotina. Recomendo muito o trabalho da Dra. Mariana."
+                    &quot;A terapia online foi perfeita para minha rotina. Recomendo muito o trabalho da Dra. Mariana.&quot;
                   </p>
                   <div className="flex items-center">
                     <Image
