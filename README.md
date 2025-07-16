@@ -88,7 +88,7 @@ Abra no navegador: **http://localhost:3000**
 ## 👨‍💻 Autor
 **Gustavo Vinicius**  
 🔗 [Portfólio](https://gustavoviniciusdev.vercel.app/)  
-📸 [LinkedIn](https://www.linkedin.com/in/gustavovinicius/)  
+📸 [LinkedIn](https://www.linkedin.com/in/gustavoviniciusdev/)  
 
 ---
 
