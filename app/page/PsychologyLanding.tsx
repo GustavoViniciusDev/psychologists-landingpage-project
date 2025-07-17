@@ -423,7 +423,7 @@ export default function PsychologyLanding() {
               <p className="text-slate-400 text-sm">
                 © 2025 | Criado e codificado por{" "}
                 <a
-                    href="https://gustavoviniciusdev.vercel.app/"
+                    href="https://gustavovinicius.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-green-400 hover:text-green-500 underline underline-offset-2"
